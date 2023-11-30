@@ -4,7 +4,7 @@
 # This is Elias Bhuiyan </>
 
 # 💫 About Me:
-🔭 I’m currently working on Creative IT Institute<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Prisma<br>💬 Ask me about Mern Stack learning process
+🔭 I’m currently working on Creative IT Institute<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Prisma<br>💬 Ask me about Mern Stack learning process<br> 📧 Reach me : [![email](eliasbhuiyan21@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eliasbhuiyanrahim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-bhuiyan) 
